@@ -3,4 +3,4 @@
 
 Repositório criado para entendimento do git e github!
 
-Adicinando uma nova linha de modo remoto
+Adicionando uma nova linha de modo remoto
